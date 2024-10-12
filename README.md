@@ -1,3 +1,3 @@
 # IETE
 
-This is the website designed for Iete telecommunication 
+This is the website designed for IETE telecommunication 
